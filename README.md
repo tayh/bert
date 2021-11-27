@@ -1,2 +1,2 @@
-# bert
+# BERT
 Introdução ao BERT
